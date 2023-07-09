@@ -69,7 +69,7 @@ class _HomePageState extends State<HomePage> {
               Container(
                 padding: const EdgeInsets.symmetric(
                   horizontal: 20,
-                  vertical: 10,
+                  vertical: 20,
                 ),
                 margin: const EdgeInsets.symmetric(horizontal: 40).copyWith(
                   top: 30,
